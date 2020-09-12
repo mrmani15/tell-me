@@ -1,0 +1,8 @@
+*{
+  font-family: sans-serif;
+  scroll-behavior: smooth;
+}
+.top{
+  position: fixed;
+  bottom: 2rem;
+}
